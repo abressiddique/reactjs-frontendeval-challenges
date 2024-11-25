@@ -10,6 +10,9 @@ function App() {
   const [missing, setMissing] = useState(emptyArr);
   const CODE = '1234';
 
+
+
+  // the below function will submit the opt with the help of map and filter 
   const handleSubmit = () => {
 
     const missed = inputs.map((item, i) => {
@@ -27,10 +30,11 @@ function App() {
     const msg = isMatch ? 'Code is Valid' : 'Code is not Valid';
     alert(msg);
   }
+  //  below we are using useeffect coz we wanna have our focus at 1st input bar
   useEffect(() => {
     refs[0].current.focus();
   }, [])
-
+// to put data in the input that why and also hanlde the input alos handle the focus
   const handleInputChange = (e, index) => {
     const val = e.target.value;
     console.log(val, !Number(val), index);
@@ -45,7 +49,7 @@ function App() {
     copyInputs[index] = val;
     setInputs(copyInputs);
   }
-
+// for key down we using the below fucniton 8 is the same value of the backspace 
   const handleOnKeyDown = (e, index) => {
     console.log(e.keyCode, index);
     if (e.keyCode === 8) {
@@ -58,7 +62,7 @@ function App() {
       }
     }
   }
-
+// this is used for handling the paste thingy dont worry its easy dude 
   const handlePaste = (e) => {
     const data = e.clipboardData.getData('text');
     console.log('paste data ', data)
