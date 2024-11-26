@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import './App.css';
 import { useState } from 'react';
-
+// interesting 
 function App() {
   const [freq, setFreq] = useState(undefined);
   const [yAxis, setYAxis] = useState([]);
