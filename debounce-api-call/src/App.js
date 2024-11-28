@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import { useEffect } from 'react';
 import debouceQuery from './utils';
-
+// normal auto suggest with  also applied debouncing .
 function App() {
 
   const [input, setInput] = useState('');
