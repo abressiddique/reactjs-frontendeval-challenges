@@ -12,41 +12,60 @@ This repository contains a collection of **28 essential React projects** to help
 
 1. **OTP Code Input** – Implement an OTP input field with automatic focus shift.  
 2. **Bar Chart** – Create a dynamic bar chart using React and charting libraries.  
-3. **Calculator** – Build a basic calculator with state management.  
+3. **Calculator** – Build a basic calculator with state management.
+   
+   ---
 
-4. **Countdown Timer App** – Implement a countdown timer with start, pause, and reset.  
-5. **Crypto Converter** – Fetch live crypto prices and convert between currencies.  
-6. **Custom Tabs** – Create a tab navigation system in React.  
+5. **Countdown Timer App** – Implement a countdown timer with start, pause, and reset.  
+6. **Crypto Converter** – Fetch live crypto prices and convert between currencies.  
+7. **Custom Tabs** – Create a tab navigation system in React.
 
-7. **Debounce API Call** – Optimize API requests with debouncing techniques.  
-8. **EMI Calculator** – Build a loan EMI calculator with interest rate logic.  
-9. **FAQ Component** – Develop an FAQ section with expandable/collapsible answers.  
+   ---
+   
 
-10. **Folder Structure** – Implement a file/folder explorer with nesting capabilities.  
-11. **Form Validation** – Validate form inputs using React hooks and libraries.  
-12. **Image Carousel** – Create an image slider with next/prev functionality.  
+9. **Debounce API Call** – Optimize API requests with debouncing techniques.  
+10. **EMI Calculator** – Build a loan EMI calculator with interest rate logic.  
+11. **FAQ Component** – Develop an FAQ section with expandable/collapsible answers.
 
-13. **Infinite Scrolling** – Load more data dynamically as the user scrolls.  
-14. **Job Board** – Build a job listing board with filters and sorting.  
-15. **Memory Game** – Implement a card-flipping memory game.  
+    ---
 
-16. **Modal Overlay** – Build a modal popup component.  
-17. **Multi-step Form** – Create a form wizard with multiple steps and validation.  
-18. **Nested Comments** – Implement a Reddit-style nested comments section.  
+13. **Folder Structure** – Implement a file/folder explorer with nesting capabilities.  
+14. **Form Validation** – Validate form inputs using React hooks and libraries.  
+15. **Image Carousel** – Create an image slider with next/prev functionality.
 
-19. **Product Filter App** – Filter and search through product listings.  
-20. **Progress Bar** – Create a progress bar that updates dynamically.  
-21. **Selectable Grid** – Implement a grid where users can select items.  
+   ---
 
-22. **Shopping List** – A simple to-do style shopping list app.  
-23. **Star Rating** – Create a star-based rating component.  
-24. **Task App (Drag & Drop)** – Implement drag-and-drop functionality for tasks.  
+17. **Infinite Scrolling** – Load more data dynamically as the user scrolls.  
+18. **Job Board** – Build a job listing board with filters and sorting.  
+19. **Memory Game** – Implement a card-flipping memory game.
 
-25. **Tic-Tac-Toe** – A classic tic-tac-toe game in React.  
-26. **Transfer List** – Build a UI to move items between two lists.  
-27. **Undoable Counter** – Implement a counter with undo/redo functionality.  
+    ---
 
-28. **Use Local Storage** – Persist data using the browser’s local storage.  
+21. **Modal Overlay** – Build a modal popup component.  
+22. **Multi-step Form** – Create a form wizard with multiple steps and validation.  
+23. **Nested Comments** – Implement a Reddit-style nested comments section.
+
+   ---
+
+25. **Product Filter App** – Filter and search through product listings.  
+26. **Progress Bar** – Create a progress bar that updates dynamically.  
+27. **Selectable Grid** – Implement a grid where users can select items.
+
+     ---
+
+29. **Shopping List** – A simple to-do style shopping list app.  
+30. **Star Rating** – Create a star-based rating component.  
+31. **Task App (Drag & Drop)** – Implement drag-and-drop functionality for tasks.
+
+   ---
+
+33. **Tic-Tac-Toe** – A classic tic-tac-toe game in React.  
+34. **Transfer List** – Build a UI to move items between two lists.  
+35. **Undoable Counter** – Implement a counter with undo/redo functionality.
+   --- 
+
+37. **Use Local Storage** – Persist data using the browser’s local storage.
+---
 
 ## 🚀 Why This Repo?
 
