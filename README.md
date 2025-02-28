@@ -4,6 +4,9 @@ this is the react codding questions
 [ code sand box ]
 
 
+// website  https://codesandbox.io/templates/react-vite
+
+
 # React Interview Practice
 
 This repository contains a collection of **28 essential React projects** to help with **React interview preparation**. Each project focuses on different aspects of React development, including **state management, component architecture, event handling, API interactions, and UI/UX best practices**.
